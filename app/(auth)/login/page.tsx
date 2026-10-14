@@ -60,7 +60,8 @@ export default function LoginForm() {
         <CardHeader className="flex flex-col items-center gap-1">
           <Image src="/logo.png" alt="Logo" width={48} height={48} />
           <CardTitle className="text-2xl text-center font-semibold">
-            Nextbase
+            Nextbase hey there  what are you doing
+            <p>sufsidfmofmofmwoifmw</p>
           </CardTitle>
           <p className="text-lg text-center font-semibold text-muted-foreground">
             Login
